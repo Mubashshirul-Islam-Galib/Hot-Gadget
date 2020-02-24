@@ -1,0 +1,42 @@
+.container{
+    margin-bottom: 100px;
+}
+.button{
+    padding: 9px 25px;
+    background-image: linear-gradient(to right, #000000, #423d3d);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    text-transform: uppercase;
+
+}
+.navigation{
+    padding-left: 550px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-footer{
+    border: none;
+    background-color:none;
+}
+.see-all{
+    text-align: right;
+    text-decoration: none;
+    color: orange;
+}
+#see-all{
+    text-decoration: none;
+    color: orange;
+}
+.form{
+    margin-top: 100px;
+    background-color: lightgray;
+    padding: 100px;
+}
+
+footer{
+    text-align: center;
+}
